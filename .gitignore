@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+.env
+.streamlit/
+myenv_3/
